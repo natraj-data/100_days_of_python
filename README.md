@@ -7,7 +7,16 @@
   - Day 1 Goals
     - Printing to the console 
     - String Manipulation and Code Intelligence 
-    - Debugging
+    - Debugging , Syntax error, Indentation Error
     - Python Input Function 
     - Python Variables and naming Conventions
     - Day 1 Project : Band Name Generator 
+
+#### Day 2 : Understanding the Data types
+  - Day 2 Goals
+  - Python Primitive Data types 
+  - Type Error, Type checking and Type conversion, Value Error
+  - Math Operation in Python 
+  - BMI Calculator 
+  - Number Manipulation and f-string in python 
+  - Day 2 Project: Tip Calculator 
