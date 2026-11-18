@@ -28,3 +28,25 @@
   - Nested if and elif statements 
   - Logical operators 
   - Day 3 Project : Treasure Island 
+
+#### Day 4 : Randomisation and List Data structure 
+  - Day 4 Goals 
+  - Random module and its useful methods
+    - random, randint, randrange, uniform
+    - choice, choices, sample, shuffle
+    - seed, getstate, setstate 
+  - List Data structure  
+  - List methods
+    - Creation of list , 1d , 2d ,3d 
+    - Access and manipulation (add/update/delete)
+    - Unpacking list
+    - * Rest collector and skipping items _ 
+    - Analyzing the list 
+    - List copying methods
+      - Referenced copies
+      - Shallow copy 
+      - Deepcopy using th copy module
+    - Combining lists
+    - using `is` and `in` operators
+    - List comprehensions 
+  - Project : Rock Paper Scissors 
